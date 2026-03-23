@@ -1,0 +1,172 @@
+{
+  "summary": {
+    "left": 12,
+    "right": 12,
+    "matched": 11,
+    "high": 5,
+    "medium": 5,
+    "low": 1,
+    "unmatched_left": 1,
+    "unmatched_right": 1
+  },
+  "matches": [
+    {
+      "left": "6A. 15428-178700VP.pdf",
+      "right": "6A. 148505.pdf",
+      "score": 0.8,
+      "confidence": "HIGH",
+      "signals": [
+        "Same supplier: Woodworking Machinery",
+        "Customer ref match: 15428-178700VP",
+        "Left doc references right doc#: 148505",
+        "Dates within 0 days"
+      ],
+      "warnings": [],
+      "needs_review": false
+    },
+    {
+      "left": "7. 16108-178668-MY.pdf",
+      "right": "7. 86438.pdf",
+      "score": 0.8,
+      "confidence": "HIGH",
+      "signals": [
+        "Same supplier: Microkerf",
+        "Customer ref match: 16108-178668-MY",
+        "Left doc# (86438) found in right text",
+        "Right doc# (86438) found in left text",
+        "Dates within 0 days"
+      ],
+      "warnings": [],
+      "needs_review": false
+    },
+    {
+      "left": "1. 16012-178800-SA.pdf",
+      "right": "1. 24701570.pdf",
+      "score": 0.6,
+      "confidence": "HIGH",
+      "signals": [
+        "Same supplier: Applelec",
+        "Customer ref match: 16012-178800-SA",
+        "Right doc# (16012) found in left text"
+      ],
+      "warnings": [],
+      "needs_review": false
+    },
+    {
+      "left": "3. 15428-178689-NT.pdf",
+      "right": "3. 5323106.pdf",
+      "score": 0.6,
+      "confidence": "HIGH",
+      "signals": [
+        "Same supplier: Formed",
+        "Customer ref match: 15428-178689-NT",
+        "Left doc# (1661037) found in right text"
+      ],
+      "warnings": [],
+      "needs_review": false
+    },
+    {
+      "left": "9A. 16139-178749-PC.pdf",
+      "right": "9A. 24701539.pdf",
+      "score": 0.6,
+      "confidence": "HIGH",
+      "signals": [
+        "Same supplier: Applelec",
+        "Customer ref match: 16139-178749-PC",
+        "Right doc# (16139) found in left text"
+      ],
+      "warnings": [],
+      "needs_review": false
+    },
+    {
+      "left": "2. SHP0388936NM.pdf",
+      "right": "2. ARD0393442NM.pdf",
+      "score": 0.45,
+      "confidence": "MEDIUM",
+      "signals": [
+        "Customer ref match: 15915-178726-SA",
+        "Dates within 0 days"
+      ],
+      "warnings": [],
+      "needs_review": true
+    },
+    {
+      "left": "4. 16060-178713-DK.pdf",
+      "right": "4. 085248.pdf",
+      "score": 0.35,
+      "confidence": "MEDIUM",
+      "signals": [
+        "Same supplier: James Latham",
+        "Right doc references left doc#: 88576"
+      ],
+      "warnings": [
+        "Customer ref on only one side"
+      ],
+      "needs_review": true
+    },
+    {
+      "left": "8. 16063-178648-DK.pdf",
+      "right": "8. 86411.pdf",
+      "score": 0.35,
+      "confidence": "MEDIUM",
+      "signals": [
+        "Same supplier: Microkerf",
+        "Left doc# (86411) found in right text",
+        "Right doc# (86411) found in left text"
+      ],
+      "warnings": [
+        "Customer ref on only one side"
+      ],
+      "needs_review": true
+    },
+    {
+      "left": "10. 16169-178777-CO.pdf",
+      "right": "10. 192696.pdf",
+      "score": 0.25,
+      "confidence": "MEDIUM",
+      "signals": [
+        "Same supplier: Worldwide Express",
+        "Dates within 3 days"
+      ],
+      "warnings": [
+        "Customer ref on only one side"
+      ],
+      "needs_review": true
+    },
+    {
+      "left": "6. 15681-178613-TE.pdf",
+      "right": "6. 134310.pdf",
+      "score": 0.25,
+      "confidence": "MEDIUM",
+      "signals": [
+        "Same supplier: Halifax Glass",
+        "Dates within 0 days"
+      ],
+      "warnings": [
+        "Different refs: 140196 vs 15681-178613-TE"
+      ],
+      "needs_review": true
+    },
+    {
+      "left": "9. 15617-178789-N.pdf",
+      "right": "9. 43082.pdf",
+      "score": 0.15,
+      "confidence": "LOW",
+      "signals": [
+        "Same supplier: Ottima"
+      ],
+      "warnings": [
+        "Customer ref on only one side"
+      ],
+      "needs_review": true
+    }
+  ],
+  "unmatched": {
+    "left": [
+      "5. 16060-178684-DK.pdf"
+    ],
+    "right": [
+      "5. 2442594.pdf"
+    ]
+  }
+}
